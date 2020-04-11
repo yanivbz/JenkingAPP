@@ -15,7 +15,7 @@ namespace JenkingAPP
 
         public static string CreateMessage()
         {
-            return "Test Jenkins";
+            return "Test Jenkins app";
         }
     }
 }
